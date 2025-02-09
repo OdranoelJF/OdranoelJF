@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Olá! Seja bem-vindo ao meu GitHub!  <br><br>Atualmente, estou me aprofundando no estudo de Inteligência Artificial com foco em Ciência de Dados. Aqui você encontrará projetos, experimentos e análises que refletem minha jornada nesse campo.  <br><br>💡 **Interesses**: IA aplicada, Machine Learning, Big Data e análise de dados educacionais.  <br>📊 **Habilidades**: SQL Server, Power BI, Python para análise de dados e ferramentas na nuvem como Azure e Databricks.  <br>🚀 **Objetivo**: Desenvolver soluções baseadas em dados para tomada de decisão e otimização de processos.  <br><br>Sinta-se à vontade para explorar os repositórios e trocar ideias! 😊  
 
 
